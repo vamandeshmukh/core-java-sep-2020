@@ -13,6 +13,7 @@ public class VectorDemo {
 //		System.out.println(list.capacity());
 
 		Vector<Integer> vector = new Vector<>();
+		
 		System.out.println(vector.size());
 		System.out.println(vector.capacity());
 		System.out.println(vector);
